@@ -26,7 +26,7 @@ A lightweight macOS menu bar app that displays your Claude API usage in real tim
 ### From source (recommended)
 
 ```bash
-git clone https://github.com/kossov/claude-usage-bar.git
+git clone https://github.com/kossov-it/claude-usage-bar.git
 cd claude-usage-bar
 make install
 ```
